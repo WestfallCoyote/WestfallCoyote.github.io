@@ -21,8 +21,5 @@
 .rightContent {
   border-bottom-left-radius:20px;
   margin: 2% 35%;
-backdrop-filter: blur(20px);}
-
-.infoPic {
-  float: right;
+  backdrop-filter: blur(20px);
 }
