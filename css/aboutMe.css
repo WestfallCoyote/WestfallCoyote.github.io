@@ -1,41 +1,38 @@
 #mainBox {
-  margin: 0 auto 100px auto;
+  margin: 0 auto 5% auto;
   color: white;
   padding: 5%;
   position: static;
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.4);
   border: 1px solid black;
   border-radius: 20px;
-  width: 80%;
-  height: auto;
+  width: 70%;
+  height: 700px;
   backdrop-filter: blur(20px);
 }
 
 .content {
   width: 50%;
-  height: 100vh;
+  height: 100%;
   float: left;
-  border: 1px solid red;
 }
 
 #contentLeft {
   text-align: left;
-  padding-left: 10%;
+  padding-left: 5%;
   padding-right: 30px;
 }
 
 #contentRight {
-  text-align: right;
-  padding-right: 10%;
-  padding-left: 30px;
+  text-align: center;
+  padding-left: 10%;
 }
 
-
-
-/*#infoPic {
+.photo {
   position: relative;
-  text-align: right;
-  float: right;
+  float: center;
   top: 0px;
-  width: 10%;
-}*/
+  width: 60%;
+  border: 2px solid black;
+  border-radius: 5px;
+}
