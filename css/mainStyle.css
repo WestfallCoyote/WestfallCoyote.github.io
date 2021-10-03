@@ -49,31 +49,6 @@ h3 {
   margin: 0 auto;
 }
 
-.content {
-  color: white;
-  text-align: left;
-  padding: 5%;
-  position: static;
-  background: rgba(0,0,0,0.5);
-  border: 1px solid black;
-  border-top-left-radius:20px;
-  border-top-right-radius:20px;
-  width: 40%;
-  height: auto;
-  backdrop-filter: blur(20px);
-}
-
-.leftContent {
-  border-bottom-right-radius:20px;
-  margin: 2% 25%;
-  backdrop-filter: blur(20px);
-}
-
-.rightContent {
-  border-bottom-left-radius:20px;
-  margin: 2% 35%;
-backdrop-filter: blur(20px);}
-
 .stinkyButtons {
   size: 4em;
   color: black;
